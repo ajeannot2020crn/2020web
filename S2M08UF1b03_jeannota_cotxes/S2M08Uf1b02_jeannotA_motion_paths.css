@@ -1,0 +1,179 @@
+#page1.gwd-play-animation .gwd-motion-path-6akk-anim-x {
+  --gwd-motion-path: {
+    "tangentFollowing":false, "sections":[ {
+      "controlPoints": ["0px", "0px", "68.67px", "1px", "137.33px", "2px", "206px", "3px"], "startTimeMs": 0, "endTimeMs": 2900, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["206px", "3px", "291.27px", "6.36px", "276.29px", "-32.72px", "302px", "-2px"], "startTimeMs": 2900, "endTimeMs": 3700, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["302px", "-2px", "323.04px", "23.13px", "414.66px", "-12.48px", "425px", "9px"], "startTimeMs": 3700, "endTimeMs": 4100, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["425px", "9px", "422.67px", "-13.33px", "547.03px", "-16.67px", "544.7px", "-39px"], "startTimeMs": 4100, "endTimeMs": 8100, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["544.7px", "-39px", "757.7px", "-39px", "1353px", "-58px", "1566px", "-58px"], "startTimeMs": 8100, "endTimeMs": 9000, "easing": "linear"
+    }
+    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
+  }
+  ;
+  animation: 9s linear 0s 1 normal forwards running gwd-motion-path-6akk-keys-x;
+  transform: translate3d(0px, 0px, 0px);
+}
+@keyframes gwd-motion-path-6akk-keys-x {
+  0% {
+    transform: translate3d(0px, 0px, 0px);
+  }
+  32.22% {
+    transform: translate3d(206px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3244, 0.3417, 0.6453, 0.6952);
+  }
+  40.44% {
+    transform: translate3d(296.83px, 0px, 0px);
+  }
+  41.11% {
+    transform: translate3d(302px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3546, 0.2984, 0.6655, 0.6724);
+  }
+  44% {
+    transform: translate3d(382.58px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3305, 0.3207, 0.6339, 0.7352);
+  }
+  45.56% {
+    transform: translate3d(425px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.364, 0.0961, 0.7226, 0.7266);
+  }
+  56.67% {
+    transform: translate3d(452.09px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3343, 0.3309, 0.6512, 0.6888);
+  }
+  87.78% {
+    transform: translate3d(542.1px, 0px, 0px);
+  }
+  88.89% {
+    transform: translate3d(544.11px, 0px, 0px);
+  }
+  90% {
+    transform: translate3d(544.7px, 0px, 0px);
+  }
+  100% {
+    transform: translate3d(1566px, 0px, 0px);
+  }
+}
+#page1.gwd-play-animation .gwd-motion-path-6akk-anim-y {
+  animation: 9s linear 0s 1 normal forwards running gwd-motion-path-6akk-keys-y;
+  transform: translate3d(0px, 0px, 0px);
+}
+@keyframes gwd-motion-path-6akk-keys-y {
+  0% {
+    transform: translate3d(0px, 0px, 0px);
+  }
+  32.22% {
+    transform: translate3d(0px, 3px, 0px);
+    animation-timing-function: cubic-bezier(0.7598, -0.3648, 0.7974, 2.7125);
+  }
+  40.44% {
+    transform: translate3d(0px, -7.79px, 0px);
+  }
+  41.11% {
+    transform: translate3d(0px, -2px, 0px);
+    animation-timing-function: cubic-bezier(0.2227, 3.9438, 0.3117, 2.3214);
+  }
+  44.78% {
+    transform: translate3d(0px, 1.76px, 0px);
+    animation-timing-function: cubic-bezier(0.5972, 0.014, 0.8233, 0.5011);
+  }
+  45.56% {
+    transform: translate3d(0px, 9px, 0px);
+    animation-timing-function: cubic-bezier(0.1396, 0.5102, 0.8604, 0.4898);
+  }
+  90% {
+    transform: translate3d(0px, -39px, 0px);
+    animation-timing-function: cubic-bezier(0.3894, 0.1812, 0.6106, 0.8188);
+  }
+  100% {
+    transform: translate3d(0px, -58px, 0px);
+  }
+}
+#page1.gwd-play-animation .gwd-motion-path-9j18-anim-x {
+  --gwd-motion-path: {
+    "tangentFollowing":false, "sections":[ {
+      "controlPoints": ["0px", "0px", "0.67px", "0px", "1.33px", "0px", "2px", "0px"], "startTimeMs": 0, "endTimeMs": 9000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["2px", "0px", "228.57px", "185.44px", "385.55px", "-36.26px", "566px", "8px"], "startTimeMs": 9000, "endTimeMs": 10000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["566px", "8px", "725px", "47px", "868.67px", "-133.33px", "1020px", "-204px"], "startTimeMs": 10000, "endTimeMs": 11100, "easing": "linear"
+    }
+    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
+  }
+  ;
+  animation: 11.1s linear 0s 1 normal forwards running gwd-motion-path-9j18-keys-x;
+  transform: translate3d(0px, 0px, 0px);
+}
+@keyframes gwd-motion-path-9j18-keys-x {
+  0% {
+    transform: translate3d(0px, 0px, 0px);
+  }
+  81.08% {
+    transform: translate3d(2px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3653, 0.2997, 0.6638, 0.6693);
+  }
+  86.49% {
+    transform: translate3d(335.52px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3407, 0.3266, 0.6706, 0.6625);
+  }
+  90.09% {
+    transform: translate3d(566px, 0px, 0px);
+  }
+  91.33% {
+    transform: translate3d(629.85px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3047, 0.362, 0.6726, 0.6597);
+  }
+  100% {
+    transform: translate3d(1020px, 0px, 0px);
+  }
+}
+#page1.gwd-play-animation .gwd-motion-path-9j18-anim-y {
+  animation: 11.1s linear 0s 1 normal forwards running gwd-motion-path-9j18-keys-y;
+  transform: translate3d(0px, 0px, 0px);
+}
+@keyframes gwd-motion-path-9j18-keys-y {
+  0% {
+    transform: translate3d(0px, 0px, 0px);
+  }
+  81.08% {
+    transform: translate3d(0px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.1552, 0.3287, 0.5067, 1.3771);
+  }
+  85.14% {
+    transform: translate3d(0px, 69.57px, 0px);
+    animation-timing-function: cubic-bezier(0.3787, 0.2664, 0.5872, 0.7967);
+  }
+  88.96% {
+    transform: translate3d(0px, 3.1px, 0px);
+    animation-timing-function: cubic-bezier(0.5278, -0.7507, 0.88, 0.6054);
+  }
+  90.09% {
+    transform: translate3d(0px, 8px, 0px);
+    animation-timing-function: cubic-bezier(0.4548, -1.0893, 0.8587, 0.5263);
+  }
+  92.82% {
+    transform: translate3d(0px, -6.7px, 0px);
+    animation-timing-function: cubic-bezier(0.3729, 0.2871, 0.6373, 0.6994);
+  }
+  100% {
+    transform: translate3d(0px, -204px, 0px);
+  }
+}
+[data-gwd-motion-path-node] {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  pointer-events: none;
+}

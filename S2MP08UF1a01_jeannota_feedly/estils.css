@@ -1,0 +1,131 @@
+body{
+  background-color: skyblue;
+  margin: 0;
+    font-family: arial;
+}
+
+div{
+  background-color: red;
+
+  height: 50px;
+
+
+}
+li{
+  display: inline-block;
+  background-color: orange;
+  height: 30px;
+  margin: 0;
+  padding: 5px;
+  line-height: 40px;
+}
+
+li:hover{
+  background-color: yellowgreen;
+}
+h1, p{
+width: 350px;
+padding: 25px;
+
+}
+a{
+text-decoration: none;
+}
+h1{
+
+  margin: 0;
+}
+p{
+  padding: 0 25px ;
+  background-color:   ;
+  margin: 0;
+
+}
+
+b{
+  color: white;
+}
+#primera{
+    height: 40px;
+}
+#segona{
+    height:550px;
+    background-image: url(img/img-hero-full-list.png);
+    background-repeat: no-repeat;
+    background-position: 400px;
+}
+
+#tercera{
+    height: 641px;
+    background-image: url(img/allinone.jpg);
+    background-repeat: no-repeat;
+    background-position: 400px;
+}
+
+#quarta{
+    height: 500px;
+    background-image: url(img/curator-short.png);
+    background-repeat: no-repeat;
+    background-position: 400px;
+}
+
+#cinquena{
+    height: 550px;
+    background-image: url(img/img-hero-full-list.png);
+    background-repeat: no-repeat;
+    background-position: 400px;
+}
+#sisena{
+    height:550px;
+    background-image: url(img/mobile-share.png);
+    background-repeat: no-repeat;
+    background-position: 400px;
+}
+
+#setena{
+    height: 643px;
+    background-image: url(img/anywhere.png);
+    background-repeat: no-repeat;
+    background-position: 400px;
+}
+
+#vuitena{
+    height: 200px;
+    text-align: center;
+}
+
+#boto{
+  background-color: violet;
+  height: 70px;
+  width: 70px;
+  position: fixed;
+  bottom: 50px;
+  right: 100px;
+  border-radius: 35px;
+  box-shadow: 2px 2px 5px black;
+  text-align: center;
+  line-height: 90px;
+  font-size: 60px;
+  background-image: url(img/sources.png);
+  background-position: -228px -19px;
+  color: white;
+  opacity: 0.5; 
+}
+ img{
+   padding: 25px;
+ }
+
+.blanca{
+    background-color: #FFF;
+}
+
+.verda{
+    background-color: #6C3;
+}
+.fosca{
+    background-color: #333;
+}
+
+.clara{
+    background-color: #EEECEE;
+}
