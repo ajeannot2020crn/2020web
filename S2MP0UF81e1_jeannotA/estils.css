@@ -1,0 +1,262 @@
+body{
+  background-color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+.barra{
+  height: 3.125rem;
+  background-color: black;
+  background opacity: 50%;
+
+}
+
+#logo{
+ margin-left: 1.25rem;
+ margin-right: 1.25rem;
+ margin-top: 0.3125rem;
+ margin-bottom: 0.3125rem;
+}
+.general{
+  background-color: #222;
+  float: left;
+}
+p{
+
+  float: left;
+}
+.yoyanose{
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+h3{
+
+  float: left;
+  color: #CCC;
+  margin-right: 0.3125rem;
+}
+h3:hover{
+  float: left;
+  color: #FFF;
+  margin-right: 0.3125rem;
+  text-decoration: underline;
+}
+
+h4{
+  float: left;
+  color: #FFF;
+  margin-right: 0.3125rem;
+}
+h4:hover{
+  float: left;
+  color: #FFF;
+  margin-right: 0.3125rem;
+  text-decoration: underline;
+}
+h1{
+  color: #FFF;
+  font-size: 1.375rem;
+  font-family: Helvetica;
+  margin: 0;
+  margin-left: 0.8rem;
+}
+#nombre{
+  margin: 0;
+  padding: 0;
+  color: #CCC;
+  font-size: 0.875rem;
+  font-family: Helvetica ;
+}
+#fecha{
+color: #CCC;
+position: static;
+font-size:0.6875rem;
+margin-right: 4.9rem;
+font-family: Helvetica ;
+}
+#documentals{
+  font-family: Helvetica ;
+  float: left;
+  width: 10.9375rem;
+  margin: 0.625rem;
+
+}
+#imatgess{
+  border-radius: 0.3125rem;
+}
+#imatgess:hover{
+  opacity: 60%;
+}
+
+#doc{
+font-family: Helvetica ;
+color: #CCC;
+font-size:0.6875rem;
+}
+
+.general2{
+  width: 100%;
+  background-color: #222;
+  float: left;
+}
+
+#imatgess2{
+  border-radius: 0.3125rem;
+  filter: grayscale(100%);
+}
+#imatgess2:hover{
+  opacity: 60%;
+}
+
+.general3{
+  width: 100%;
+  background-color: #222;
+  float: left;
+}
+
+.general4{
+  width: 100%;
+  background-color: #222;
+  float: left;
+}
+
+.general5{
+  width: 100%;
+  background-color: #222;
+  float: left;
+}
+
+@media screen and (max-width:640px) {
+  body{
+    background-color: #222;
+    margin: 0;
+    padding: 0;
+  }
+
+  .barra{
+    height: 3.125rem;
+    background-color: black;
+    background opacity: 50%;
+
+  }
+
+  #logo{
+   margin-left: 1.25rem;
+   margin-right: 1.25rem;
+   margin-top: 0.3125rem;
+   margin-bottom: 0.3125rem;
+  }
+  .general{
+    background-color: #222;
+    float: left;
+  }
+  p{
+
+    float: left;
+  }
+  .yoyanose{
+    margin: 0;
+    padding: 0;
+    float: left;
+  }
+  h3{
+
+    float: left;
+    color: #CCC;
+    margin-right: 0.3125rem;
+  }
+  h3:hover{
+    float: left;
+    color: #FFF;
+    margin-right: 0.3125rem;
+    text-decoration: underline;
+  }
+
+  h4{
+    float: left;
+    color: #FFF;
+    margin-right: 0.3125rem;
+  }
+  h4:hover{
+    float: left;
+    color: #FFF;
+    margin-right: 0.3125rem;
+    text-decoration: underline;
+  }
+  h1{
+    color: #FFF;
+    font-size: 1.375rem;
+    font-family: Helvetica;
+    margin: 0;
+    margin-left: 0.8rem;
+  }
+  #nombre{
+    margin: 0;
+    padding: 0;
+    color: #CCC;
+    font-size: 0.85rem;
+    font-family: Helvetica ;
+  }
+  #fecha{
+  color: #CCC;
+  position: static;
+  font-size:0.6875rem;
+  margin-right: 4.9rem;
+  font-family: Helvetica ;
+  }
+  #documentals{
+    font-family: Helvetica ;
+    float: left;
+    width: 43.5%;;
+    margin: 3%;
+
+  }
+  #imatgess{
+    border-radius: 0.625rem;
+  }
+  #imatgess:hover{
+    opacity: 60%;
+  }
+
+  #doc{
+  font-family: Helvetica ;
+  color: #CCC;
+  font-size:0.6875rem;
+  }
+
+  .general2{
+    width: 100%;
+    background-color: #222;
+    float: left;
+  }
+
+  #imatgess2{
+    border-radius: 0.3125rem;
+    filter: grayscale(100%);
+  }
+  #imatgess2:hover{
+    opacity: 60%;
+  }
+
+  .general3{
+    width: 100%;
+    background-color: #222;
+    float: left;
+  }
+
+  .general4{
+    width: 100%;
+    background-color: #222;
+    float: left;
+  }
+
+  .general5{
+    width: 100%;
+    background-color: #222;
+    float: left;
+  }
+
+
+
+}
